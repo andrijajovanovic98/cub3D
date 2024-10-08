@@ -1,0 +1,14 @@
+NO ./walls/brick1.xpm
+SO ./walls/brick2.xpm
+WE ./walls/brick3.xpm
+EA ./walls/brick4.xpm
+F 220,100,0
+C 225,30,0
+
+ 11111111
+10D0000001
+1010010001
+10000000001
+1000110001
+10001000N1
+1111111111

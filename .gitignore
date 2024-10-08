@@ -1,0 +1,7 @@
+cub3D
+cub3D_bonus
+.vscode/
+libft/libft.a
+vgcore.*
+*.d
+*.o
