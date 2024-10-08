@@ -1,2 +1,5 @@
-![Screenshot from 2024-10-08 18-31-58](https://github.com/user-attachments/assets/e01fe230-b119-4cd7-9ba1-c52b8d2dcd10)
-# cub3D![cub3D](https://github.com/user-attachments/assets/87d29377-a6d0-4aeb-84aa-f704ebda75a6)
+![Uploading cub3Dscore.png…]()
+
+# cub3D![cub3D](https:![cub3Dscore](https://github.com/user-attachments/assets/282b0c94-2b5d-4718-907f-c66997c482c3)
+//github.com/user-attachments/assets/87d29377-a6d0-4aeb-84aa-f704ebda75a6)
+
