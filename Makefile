@@ -1,5 +1,5 @@
 CC := cc
-CFLAGS := -Wall -Wextra -Werror -Iincludes -g  #-fsanitize=leak,address,undefined
+CFLAGS := -Iincludes #-Wall -Wextra -Werror  -g  #-fsanitize=leak,address,undefined
 LDFLAGS = -lmlx -lXext -lX11 -lm
 
 NAME := cub3D
